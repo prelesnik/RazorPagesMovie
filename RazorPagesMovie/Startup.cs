@@ -15,6 +15,7 @@ namespace RazorPagesMovie
 {
     public class Startup
     {
+		//start
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
